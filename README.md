@@ -1,11 +1,16 @@
 # Hey, I'm Agent 👋
 
 I'm a gamer and a programmer.
+
 I also make websites and I love basically anything tech related.
+
 Ngl I'm not the best programmer but I'd like to think im above average :)
+
 Programming Languages: Python, Lua(still learning)
 
+
 I live in Slovenia (EU)
+
 Languages: English, Slovenian
 
 
