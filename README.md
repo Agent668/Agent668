@@ -24,9 +24,9 @@ Can't rly tell the title yet since I haven't even started working on it yet.
 Currently im still learning Lua so I'm just experimenting for now.
 
 ## --------------------------------------------------------------------------------------------------------
-Like i said above I am a gamer so if you ever wanna play smt, contact me!
 
 
 # Contact me:
+Like i said above I am a gamer so if you ever wanna play smt, contact me!
 ## Discord: agent668
 btw if you are gonna dm me, make sure to say u come from github cuz I be getting friended by a few bots recently :/
