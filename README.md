@@ -18,9 +18,9 @@ Key feature I will add later and the reason I am making it is the app allways ap
 ## Roblox games
 Can't rly tell the title yet since I haven't even started working on it yet.
 Currently im still learning Lua so I'm just experimenting for now.
-## -------------------------------------------------------------------------------------------------------------------
 
-Like i said aboe I am a gamer at heart so if you ever wanna play smt, contact me!
+
+Like i said above I am a gamer so if you ever wanna play smt, contact me!
 
 
 # Contact me:
